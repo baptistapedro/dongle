@@ -1,0 +1,4 @@
+project: dongle
+target: dongle
+cmds:
+  - cmd: /fuzz_decode
